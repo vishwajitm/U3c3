@@ -1,0 +1,19 @@
+
+.todoForm .input{
+  font-size: 20px;
+  margin-top: -10;
+  width: 80%;
+  padding: 10px;
+  background-color: white;
+  border: none;
+  text-decoration: none;
+}
+.btn{
+  font-size: 30px;
+  color: blue;
+  background-color: white;
+  width: 20%;
+  padding-top: 2px;
+  border: none;
+  cursor: pointer;
+}

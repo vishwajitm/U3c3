@@ -1,0 +1,9 @@
+.taskHeader {
+  padding-top: 20px;
+  text-align: center;
+  background-color: rgb(46,136,171);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: white;
+  margin-bottom: -15px;
+}
